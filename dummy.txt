@@ -1,3 +1,5 @@
-This is dummy file. 
-hello dummy..
-pull me push me u have learnt it congrats...
+public class Main{
+    public static void main(System[] args){
+      System.out.println("Hello World");
+    }
+}
